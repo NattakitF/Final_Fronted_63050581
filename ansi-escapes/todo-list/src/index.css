@@ -1,0 +1,10 @@
+body {
+  background-color: aliceblue;
+  margin: 0;
+}
+
+.card-person:hover {
+  cursor: pointer;
+  background-color: azure;
+  transform: scale(1.05);
+}
